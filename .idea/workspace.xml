@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27cccfd9-44fe-4bc4-92f5-e9c6a0b668e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mlx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmarks/numpy/single_ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/benchmarks/numpy/single_ops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmarks/python/batch_matmul_bench.py" beforeDir="false" afterPath="$PROJECT_DIR$/benchmarks/python/batch_matmul_bench.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmarks/python/blas/bench_gemm.py" beforeDir="false" afterPath="$PROJECT_DIR$/benchmarks/python/blas/bench_gemm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmarks/python/blas/bench_gemv.py" beforeDir="false" afterPath="$PROJECT_DIR$/benchmarks/python/blas/bench_gemv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmarks/python/compile_bench.py" beforeDir="false" afterPath="$PROJECT_DIR$/benchmarks/python/compile_bench.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmarks/python/conv_bench.py" beforeDir="false" afterPath="$PROJECT_DIR$/benchmarks/python/conv_bench.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmarks/python/gather_bench.py" beforeDir="false" afterPath="$PROJECT_DIR$/benchmarks/python/gather_bench.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmarks/python/rope_bench.py" beforeDir="false" afterPath="$PROJECT_DIR$/benchmarks/python/rope_bench.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmarks/python/scatter_bench.py" beforeDir="false" afterPath="$PROJECT_DIR$/benchmarks/python/scatter_bench.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmarks/python/single_ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/benchmarks/python/single_ops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/docs/src/conf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/extensions/mlx_sample_extensions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/extensions/mlx_sample_extensions/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/mlx/extension.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/mlx/extension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/mlx/nn/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/mlx/nn/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/mlx/nn/layers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/mlx/nn/layers/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/mlx/nn/layers/quantized.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/mlx/nn/layers/quantized.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/mlx/optimizers/optimizers.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/mlx/optimizers/optimizers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_autograd.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_autograd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_bf16.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_bf16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_blas.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_blas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_compile.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_compile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_conv.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_conv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_device.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_device.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_fast.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_fast.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_fast_sdpa.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_fast_sdpa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_fft.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_fft.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_init.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_init.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_linalg.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_linalg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_load.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_load.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_losses.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_losses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_metal.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_metal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_nn.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_nn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_ops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_optimizers.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_optimizers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_quantized.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_quantized.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_random.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_random.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_reduce.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_reduce.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/tests/test_vmap.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tests/test_vmap.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "contexts": [
+    {
+      "name": "docker-desktop"
+    }
+  ],
+  "isMigrated": true
+}]]></component>
+  <component name="KubernetesSettings">
+    <option name="contextName" value="docker-desktop" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2dQ8DUg8bO7908xJG7RdQFaP5cZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "PyConsoleConfigurable.Python Console"
+  }
+}]]></component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="mlx" is-module-sdk="true" working-directory="$PROJECT_DIR$">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="mlx" />
+        <option name="myWorkingDirectory" value="$PROJECT_DIR$" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-65c742565061-c6172f9078bd-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-233.14475.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
